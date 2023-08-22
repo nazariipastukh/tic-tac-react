@@ -1,10 +1,8 @@
-import React from 'react';
-import './App.css';
 import {GameComponent} from "./components";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <GameComponent/>
     </div>
   );
